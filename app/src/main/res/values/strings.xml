@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator_Sederhana</string>
+    <string name="angka1">angka1</string>
+    <string name="angka2">angka2</string>
+    <string name="perkalian">perkalian</string>
+    <string name="pembagian">pembagian</string>
+    <string name="perkurangan">perkurangan</string>
+    <string name="pertambahan">pertambahan</string>
+    <string name="clear">Clear</string>
+    <string name="hasil">Hasil</string>
+</resources>
